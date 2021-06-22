@@ -29,7 +29,7 @@ StopEle1.addEventListener("click", () => {
     clearInterval(interval);
     clearInterval(interval2);
     clearInterval(interval3);
-    countdownEl1.innerHTML = "Pause";
+    countdownEl1.innerHTML = "Paused";
 });
 morebtn1.addEventListener("click", () => {
     document.getElementById("info").style.display = "block";
