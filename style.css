@@ -1,5 +1,5 @@
 body {
-    background-color: fde9e8;
+    background-color: #cceeff;
     text-align: center;
 
 }
@@ -10,7 +10,7 @@ body {
     max-width: 960px;
     margin: 80px auto;
     text-align: center;
-    background-color: #f7a5a1;
+    background-color: #80d4ff;
     border-radius: 15px;
 }
 .how{
@@ -20,7 +20,7 @@ body {
     max-width: 960px;
     margin: 50px auto;
     text-align: center;
-    background-color: #f7a5a1;
+    background-color: #80d4ff;
     border-radius: 15px;
 }
 .studybtn {
